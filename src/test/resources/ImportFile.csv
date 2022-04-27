@@ -1,0 +1,2 @@
+businessUnitId;clientOrderId;clientParcelNumber;clientValue;insuranceValue;parcelShopCode;phoneNumber;email;firstName;lastName;fatherName;barcode;length;width;height;weight;deliveryDcCode;returnDcCode;phoneNumberAdditional
+2806;AutoTestImportFile;456DFF12345671;100;100;900000;79160105476;;Test;test;test;;10;10;10;10;1548;1548;79160105476
